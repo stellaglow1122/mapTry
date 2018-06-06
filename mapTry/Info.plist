@@ -20,6 +20,12 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>open the window</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>close your eyes</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>open the door</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
